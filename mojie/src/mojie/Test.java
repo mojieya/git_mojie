@@ -7,4 +7,12 @@ public class Test {
 	public void zl(){
 		System.out.println("66666");
 	}
+	
+	public void mj(){
+		System.out.println("222");
+	}
+	
+	public void mj1(){
+		System.out.println("666");
+	}
 }
