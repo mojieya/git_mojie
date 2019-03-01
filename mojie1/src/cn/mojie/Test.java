@@ -1,5 +1,7 @@
 package cn.mojie;
 
 public class Test {
-  System.out.println("lalala");
+  public void zl(){
+    System.out.println("zhuzenglu");
+  }
 }
